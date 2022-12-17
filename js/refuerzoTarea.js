@@ -191,7 +191,6 @@ for (const key in pokemons[0]) {
 }
 encabezados.append(tr);
 tabla.append(encabezados);
-// tabla.setAttribute('border','1');
 
 construirCuerpo();
 function construirCuerpo() {
